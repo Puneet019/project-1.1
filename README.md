@@ -1,2 +1,2 @@
 # project-1.1
-# example to demonstrate while loop and if and else statements.
+ example to demonstrate ```while loop``` and ```if``` and``` else``` statements.
